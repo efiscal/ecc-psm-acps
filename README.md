@@ -18,8 +18,8 @@
 
 | Arhitectură  | SHA-256                                                            |
 | ------------ | ------------------------------------------------------------------ |
-| LINUX/AMD64  | `46572fb971d351c262b0c6ddadbc9c6a57706f8b3c018a4c829353950cc04a71` |
-| LINUX/ARM64  | `8abdca6d9428353dd8d25801cf4ff3cc0fe88519dc8fa680d14aee9350d9f74d` |
+| LINUX/AMD64  | `a5eff1db5613ff4f99b71b684da9c9b84895f5ea6cf3fdb3f572176fa3f80938` |
+| LINUX/ARM64  | `4b0d6affd111409073a107f071e21dd4bc595e973eb88834e173d6852741bc39` |
 
 ---
 
