@@ -1,4 +1,4 @@
-name: "ecc-psm"
+name: "ecc-psm-v1.1"
 volumes:
   db:
   app:
